@@ -5,9 +5,15 @@ section.container div#anunciotablet{
     padding: 5px 0;
     color: black;
     display: none;
+}
 
+.bannerdiv{
+    margin: auto;
+}
 
-
+.bannerimg{
+    
+    padding: 10px 12%;
 }
 
 section.container article#conteudo{
