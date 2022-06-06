@@ -68,5 +68,18 @@ table{
 table th, tr{
     text-align: center;
     padding: 0 20px;
-    font-size: 30px;
+    font-size: 20px;
+}
+
+footer.rodape{
+	width: 100%;
+	height: 30px;
+	float: left;
+	color: whitesmoke;
+	text-align: center;
+	font-size: 14px;
+	margin-top: 300px;
+	line-height: 30px;
+	background-color: #0e6a53;
+
 }
