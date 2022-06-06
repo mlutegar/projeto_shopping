@@ -18,11 +18,11 @@ section.container div#conteudo ul#produtos li{
     -webkit-transition:1s ease-in;
 }
 
-section.container div#conteudo span {
+section.container div#conteudo p {
     color: white;
-    text-shadow: 1px 1px 1px #000000;
+    margin-left: 10px;
     font-size: 14px;
-    
+    text-shadow: 1px 1px 1px #000000;
 }
 
 
