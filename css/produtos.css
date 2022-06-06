@@ -1,0 +1,157 @@
+section.container div#conteudo ul#produtos{
+    width: 250px;
+    margin: auto;
+    background-color: #0e6a53;
+    padding: 35px;
+    list-style: none;
+    overflow: hidden;
+}
+
+section.container div#conteudo ul#produtos li{
+    float: left;    
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 10px;
+    border: 5px solid #ffffff;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 4);
+    -webkit-transition:1s ease-in;
+}
+
+section.container div#conteudo span {
+    color: white;
+    text-shadow: 1px 1px 1px #000000;
+    font-size: 14px;
+    
+}
+
+
+section.container div#conteudo ul#produtos li#produto01 {
+    background: url(../img/i3.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li#produto02 {
+    background: url(../img/i5.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li#produto03 {
+    background: url(../img/i7.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li#produto04 {
+    background: url(../img/placamae.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li#produto05 {
+    background: url(../img/headset.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li#produto06 {
+    background: url(../img/notebook.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li#produto07 {
+    background: url(../img/notebooksamsung.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li#produto08 {
+    background: url(../img/iphone.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li#produto09 {
+    background: url(../img/ps4.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li#produto10 {
+    background: url(../img/fifa.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li#produto11 {
+    background: url(../img/impressora.png);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+}
+
+section.container div#conteudo ul#produtos li span{
+    color: white;
+    text-shadow: 1px 1px 1px #000000;
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 15px;
+    padding: 5px;
+    line-height: 370px;
+    opacity: 0;
+
+}
+
+section.container div#conteudo ul#produtos li:hover span{
+    opacity: 1;
+}
+
+section.container div#conteudo ul#produtos li#produto01:hover{
+    background-size: 200px 200px;
+}
+
+section.container div#conteudo ul#produtos li#produto02:hover{
+    background-size: 200px 200px;
+}
+
+section.container div#conteudo ul#produtos li#produto03:hover{
+    background-size: 200px 200px;
+}
+
+section.container div#conteudo ul#produtos li#produto04:hover{
+    background-size: 200px 200px;
+}
+
+section.container div#conteudo ul#produtos li#produto05:hover{
+    background-size: 200px 200px;
+}
+
+section.container div#conteudo ul#produtos li#produto06:hover{
+    background-size: 200px 200px;
+}
+
+section.container div#conteudo ul#produtos li#produto07:hover{
+    background-size: 200px 200px;
+}
+
+section.container div#conteudo ul#produtos li#produto08:hover{
+    background-size: 200px 200px;
+}
+
+section.container div#conteudo ul#produtos li#produto09:hover{
+    background-size: 200px 200px;
+}
+
+section.container div#conteudo ul#produtos li#produto10:hover{
+    background-size: 200px 200px;
+}
+
+section.container div#conteudo ul#produtos li#produto11:hover{
+    background-size: 200px 200px;
+}
+
+
+
+
+
