@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsletter</title>
+    <link rel="stylesheet" href="css/newsteller.css">
+</head>
+<body>
+    
+    <section class="container">
+        <header class="topo">
+    
+            <div class="logo">
+            <img src="img/logo.png" width="500" height="170"/>
+            </div>
+    
+            <nav class="menu">
+    
+                <ul>
+                    <li> <a href="index.html">Home</a> </li>
+    
+                    <li> <a href="quem_somos.html">Quem Somos</a> </li>
+    
+                    <li> <a href="aluguel.html">Alugue sua loja</a> </li>
+    
+                    <li> <a href="lojas.html">Lojas</a> </li>
+    
+                    <li> <a href="produtos.html">Produtos</a> </li>
+                </ul> 
+    
+    
+            </nav> <!-- Fim Menu-->
+        </header>
+    </section>
+    <br>
+    <form>
+        <fieldset>
+            <legend>Cadastre-se e receba em primeira mão nossas promoções</legend>
+            <label for="titulo">Título</label>
+            <select name="titulo">
+                <option value="Sr" selected>Senhor</option>
+                <option value="Sra">Senhora</option>
+                <option value="Srta">Senhorita</option>
+            </select>
+            <br>
+            <label>Nome <input type="text" name="nome"/></label>
+            <br>
+            <label>Sobrenome <input type="text" name="sobrenome"/></label>
+            <br>
+            <label>E-mail <input type="email" name="email"/></label>
+            <br>
+            <label>Data de nascimento <input type="date" name="dataNascimento"/></label>
+            <br>
+
+            <input type="submit" value="ENVIAR"/>
+            <input type="reset" value="RESETAR"/>
+        </fieldset>
+    </form>
+
+    <footer class="rodape">
+
+
+        &copy;GrandeShopping Company 2022
+        
+    </footer><!-- Fim rodapé-->
+
+</body>
+</html>
